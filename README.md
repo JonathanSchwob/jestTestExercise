@@ -1,2 +1,0 @@
-# jestTestExercise
-Created with CodeSandbox
